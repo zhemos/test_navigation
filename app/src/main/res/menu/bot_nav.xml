@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/match"
+        android:title="Match"
+        android:icon="@android:drawable/ic_btn_speak_now"/>
+    <item android:id="@+id/news"
+        android:title="News"
+        android:icon="@android:drawable/ic_btn_speak_now"/>
+    <item android:id="@+id/market"
+        android:title="Market"
+        android:icon="@android:drawable/ic_btn_speak_now"/>
+</menu>
